@@ -1,4 +1,4 @@
-NOTE: as a part of a team project, I(Hitesh Chaudhari) was resposibile independantly for : 
+NOTE: as a part of a team project, I(Hitesh Chaudhari) was resposibile independantly for following tasks: 
 1. Designing data model for the applicaiton.
 2. Creating a data model architecture in Postgres.
 3. Creating bakend services.
